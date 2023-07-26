@@ -1,0 +1,9 @@
+.dropDown {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    [role="menuitem"] {
+        border-radius: 0;
+        font-size: rem(12px);
+    }
+}
